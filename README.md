@@ -11,5 +11,5 @@ Este proyecto incluye cógido `HTML` y está pensado para:
 
 ---
 
-### Gracias por tus aportaciones
+### Gracias por tus aportaciones y comentarios
 
